@@ -1,0 +1,83 @@
+[33mcommit 2afb6d0a26c6531e6190a266e02d3cd76684e035[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Fri May 6 15:55:19 2022 -0700
+
+    Adds updated README
+
+[33mcommit d67cf0a5466565acd2d8871fa0b2b806b961f68d[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Sun Apr 3 14:28:47 2022 -0700
+
+    Adds better accessible UI with the View button.
+
+[33mcommit ba4a1c942e78e4a47dbacf7a18279872787a3ce7[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Sun Apr 3 13:55:11 2022 -0700
+
+    remove firebase hosting
+
+[33mcommit 1b6fdd8665a25cd21781fb45f7522b247ea29620[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Sun Mar 27 16:18:02 2022 -0700
+
+    update styles
+
+[33mcommit b49c9328c41ad91323454c79abe81440f25cc5e3[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Thu Mar 24 22:29:12 2022 -0700
+
+    updates styles to be more modern and adds fonts
+
+[33mcommit 3784d6b032175ba645956b277e61a7bf582136e3[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Thu Mar 24 14:38:16 2022 -0700
+
+    update styles, add images.
+
+[33mcommit 670afc495d752c920f4a3a37c4eb1dc5283765a9[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Thu Mar 24 12:18:36 2022 -0700
+
+    adds more polish
+
+[33mcommit 2ed95a1a7119ed7b46641056f033e4581ef6769a[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Mon Mar 21 13:45:22 2022 -0700
+
+    updates readme
+
+[33mcommit 4230bbf1262e07c1b46a9d22315e8cc46f72dbce[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Fri Mar 18 15:39:09 2022 -0700
+
+    add starting point for the application
+
+[33mcommit b44bedda31b812d81d97a125a42af64cdca73b3d[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Mon Mar 14 16:23:43 2022 -0700
+
+    reset app
+
+[33mcommit 45255e88b2ea98fff66e3d05cba78186ca468fb7[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Mon Mar 14 14:10:08 2022 -0700
+
+    update app to 13.2
+
+[33mcommit b393f50c97eca93b9c6a7f0d6081c01a68b7a0f4[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Fri Dec 10 18:34:10 2021 +0000
+
+    add missing files
+
+[33mcommit 62d2bed5486352b00d69f23d827a2ec0fbe0eb14[m
+Author: Mark Thompson <2554588+MarkTechson@users.noreply.github.com>
+Date:   Fri Dec 10 18:31:26 2021 +0000
+
+    add base app
+
+[33mcommit 4ac1505c3a8c09f6a21b74dc654091140beb5b58[m
+Author: Mark Thompson <markathompson@google.com>
+Date:   Thu Dec 9 23:40:55 2021 +0000
+
+    initial commit
